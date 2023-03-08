@@ -4,6 +4,7 @@ channels:
 dependencies:
 - altair
 - matplotlib-base
+- matplotlib.pyplot
 - numpy
 - pandas
 - ipywidgets
